@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lowrenn.twa",
+        "sha256_cert_fingerprints": ["B6:4A:71:3E:51:D1:EB:6B:13:04:E0:5A:63:D0:E5:23:38:2F:61:0E:F7:BC:39:F8:41:3B:8F:D1:52:AD:C1:56"]
+      }
+    }]
