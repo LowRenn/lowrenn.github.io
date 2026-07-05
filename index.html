@@ -479,8 +479,8 @@ function renderLibrary(){
   ${tracks.length===0 ? `
     <div class="empty">
       <div class="glyph">♪</div>
-      <b>İstasyonun henüz boş</b>
-      <p>Sağ alttaki + butonuyla ilk müziğini ekle.<br>Etiketleri otomatik okumayı deneriz, sonrasında hepsini elinle düzenleyebilirsin.</p>
+      <b>Müzik İstasyonun Henüz Boş</b>
+      <p>Sağ alttaki dosya butonuyla ilk müziğini ekle.<br>Etiketleri otomatik okumayı deneriz, sonrasında hepsini elinle düzenleyebilirsin.</p>
     </div>` : `<div class="track-list">${sorted.map(t=>renderTrackRow(t)).join('')}</div>`}
   `;
 }
