@@ -2,6 +2,13 @@ const CACHE = 'istasyonum-v1';
 const APP_SHELL = [
   './',
   './index.html',
+  './style.css',
+  './database.js',
+  './metadata.js',
+  './player.js',
+  './playlist.js',
+  './import.js',
+  './ui.js',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
